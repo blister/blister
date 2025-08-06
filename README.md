@@ -7,8 +7,6 @@ software products for early-stage tech startups.
 I also have a personal page at [ericharrison.info](https://ericharrison.info) 
 [infrequently updated]
 
-![blister's Streak](https://github-readme-streak-stats.herokuapp.com/?user=blister&theme=cobalt&hide_border=true)
-
 ### Favorite Technologies
 <div align="center">
     <img src="https://skillicons.dev/icons?i=php,go,mysql,sqlite,neovim,htmx,js,bun,nodejs,ts,c,discord,linux&perline=5">
@@ -21,4 +19,6 @@ I also have a personal page at [ericharrison.info](https://ericharrison.info)
 ![Make Startups Logo](https://cofounder-file-bucket.nyc3.digitaloceanspaces.com/JODE7wNy.png)
 
 
-![blister's Streak](https://github-readme-streak-stats.herokuapp.com/?user=blister&theme=cobalt&hide_border=true)
+<!--
+    ![blister's Streak](https://github-readme-streak-stats.herokuapp.com/?user=blister&theme=cobalt&hide_border=true)
+-->
