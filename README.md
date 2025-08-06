@@ -5,11 +5,9 @@ software products for early-stage tech startups.
 I also have a personal page at [ericharrison.info](https://ericharrison.info) 
 [infrequently updated]
 
-<div align="center">
 ![blister's Stats](https://github-readme-stats.vercel.app/api?username=blister&theme=cobalt&show_icons=true&hide_border=true&count_private=true)
 ![blister's Streak](https://github-readme-streak-stats.herokuapp.com/?user=blister&theme=cobalt&hide_border=true)
 ![blister's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=blister&theme=cobalt&show_icons=true&hide_border=true&layout=compact)
-</div>
 
 ### Favorite Technologies
 <div align="center">
